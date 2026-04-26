@@ -1,8 +1,0 @@
-wwwroot\test.js
-wwwroot\style.css
-wwwroot\index.html
-wwwroot\app.js
-C:\Users\zebro\source\repos\SmartSpend\SmartSpend\wwwroot\style.css
-C:\Users\zebro\source\repos\SmartSpend\SmartSpend\wwwroot\index.html
-C:\Users\zebro\source\repos\SmartSpend\SmartSpend\wwwroot\test.js
-C:\Users\zebro\source\repos\SmartSpend\SmartSpend\wwwroot\app.js
