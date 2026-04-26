@@ -1,0 +1,6 @@
+@SmartSpend_HostAddress = http://localhost:5293
+
+GET {{SmartSpend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
